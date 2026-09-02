@@ -9,8 +9,10 @@
 
 
 ## Medium
-| # | Title | Solution | Tags |
-|:-:|:-----:|:--------:|:----:|
+| # |                                     Title                                     |                   Solution                   |    Tags     |
+|:-:|:-----------------------------------------------------------------------------:|:--------------------------------------------:|:-----------:|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Problem_2.kt](src/main/kotlin/Problem_2.kt) | Linked List |
+
 
 ## Hard
 | # | Title | Solution | Tags |
