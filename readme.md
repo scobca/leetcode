@@ -9,9 +9,10 @@
 
 
 ## Medium
-| # |                                     Title                                     |                   Solution                   |    Tags     |
-|:-:|:-----------------------------------------------------------------------------:|:--------------------------------------------:|:-----------:|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Problem_2.kt](src/main/kotlin/Problem_2.kt) | Linked List |
+| # |                                                                    Title                                                                    |                   Solution                   |            Tags            |
+|:-:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|:--------------------------:|
+| 2 |                                [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                | [Problem_2.kt](src/main/kotlin/Problem_2.kt) |        Linked List         |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Problem_3.kt](src/main/kotlin/Problem_3.kt) | Hash Table, Sliding Window |
 
 
 ## Hard
