@@ -1,17 +1,16 @@
 fun longestCommonPrefix(strs: Array<String>): String {
-    var longestCommonPrefix = ""
     val ref = strs[0]
-    val arrSize = strs.size
 
     for (i in ref.indices) {
-        longestCommonPrefix += ref[i]
-        if (strs.filter { it.startsWith(longestCommonPrefix) }.size != arrSize) {
-            longestCommonPrefix = longestCommonPrefix.dropLast(1)
-            break
+        val char = ref[i]
+        for (j in 1 until strs.size) {
+            if (i >= strs[j].length || strs[j][i] != char) {
+                return ref.substring(0, i)
+            }
         }
     }
 
-    return longestCommonPrefix
+    return ref
 }
 
 fun main() {
