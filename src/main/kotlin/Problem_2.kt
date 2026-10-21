@@ -1,7 +1,3 @@
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
-
 fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
     var p1 = l1
     var p2 = l2
