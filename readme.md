@@ -17,6 +17,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Problem_3.kt](src/main/kotlin/Problem_3.kt) | Hash Table, Sliding Window |
 | 5 |                  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                  | [Problem_5.kt](src/main/kotlin/Problem_5.kt) |      Two pointers, DP      |
 | 6 |                              [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                              | [Problem_6.kt](src/main/kotlin/Problem_6.kt) |           String           |
+| 7 |                                      [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                      | [Problem_7.kt](src/main/kotlin/Problem_7.kt) |            Math            |
 
 
 ## Hard
