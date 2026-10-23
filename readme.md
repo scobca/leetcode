@@ -1,6 +1,7 @@
 # Leetcode
 
 ## Easy
+
 | #  |                                           Title                                           |                    Solution                    |       Tags       |
 |:--:|:-----------------------------------------------------------------------------------------:|:----------------------------------------------:|:----------------:|
 | 1  |               [Two Sum](https://leetcode.com/problems/two-sum/description/)               |  [Problem_1.kt](src/main/kotlin/Problem_1.kt)  |    Hash Table    |
@@ -9,8 +10,8 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Problem_14.kt](src/main/kotlin/Problem_14.kt) |  Array, String   |
 | 20 |     [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)     | [Problem_20.kt](src/main/kotlin/Problem_20.kt) |  Stack, String   |
 
-
 ## Medium
+
 | # |                                                                    Title                                                                    |                   Solution                   |            Tags            |
 |:-:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|:--------------------------:|
 | 2 |                                [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                | [Problem_2.kt](src/main/kotlin/Problem_2.kt) |        Linked List         |
@@ -18,8 +19,9 @@
 | 5 |                  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                  | [Problem_5.kt](src/main/kotlin/Problem_5.kt) |      Two pointers, DP      |
 | 6 |                              [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                              | [Problem_6.kt](src/main/kotlin/Problem_6.kt) |           String           |
 | 7 |                                      [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                      | [Problem_7.kt](src/main/kotlin/Problem_7.kt) |            Math            |
-
+| 7 |                        [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)                        | [Problem_8.kt](src/main/kotlin/Problem_8.kt) |           String           |
 
 ## Hard
+
 | # | Title | Solution | Tags |
 |:-:|:-----:|:--------:|:----:|
